@@ -9,7 +9,7 @@ The visual guide of this repo and tutorial is in the `visual guide` folder.
 1. Clone the repo
 
 ```
-git clone https://github.com/midasminer/langchain-supabase-chatbot.git
+git clone https://github.com/dandytopstar/ChatBot-langchain-superbase.git
 ```
 
 2. Install packages
